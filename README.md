@@ -1,1 +1,1 @@
-# wp.dev
+# WordPress Test Project
